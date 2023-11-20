@@ -41,19 +41,19 @@ const Home = () => {
                     animationDelay:"0.5s",
                 }}>
                     <AiFillYoutube/>
-                    <p>Amazon</p>
+                    <p>Youtube</p>
                 </div>
                 <div style={{
                     animationDelay:"0.7s",
                 }}>
                     <AiFillInstagram/>
-                    <p>Google</p>
+                    <p>Instagram</p>
                 </div>
                 <div style={{
                     animationDelay:"0.9s",
                 }}>
                     <AiFillAmazonCircle/>
-                    <p>Google</p>
+                    <p>Amazon</p>
                 </div>
             </article>
         </div>
